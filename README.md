@@ -1,7 +1,7 @@
 ### Hey
 <br />
 你好 ，我是一名前端。
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=462937186)](https://github.com/anuraghazra/github-readme-stats)
+[[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=462937186)](https://github.com/anuraghazra/github-readme-stats)](https://github-readme-stats.vercel.app/api?username=462937186)
 
 <img  alt="GIF" src="./code.gif" width="430" height="100%" />
 
