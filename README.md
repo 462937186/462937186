@@ -2,7 +2,7 @@
 <br />
 你好 ，我是一名前端。
 <br />
-<img align="right" alt="GIF" src="./code.gif" width="430" height="100%" />
+<img align="right" alt="GIF" src="./code.gif" width="330" height="100%" />
 <br />
 <br />
 
