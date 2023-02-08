@@ -2,10 +2,15 @@
 <br />
 你好 ，我是一名前端。
 <br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=462937186)
 <br />
-<img  alt="GIF" src="./code.gif" width="430" height="100%" />
 <br />
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=462937186)
+
+<img align="right" alt="GIF" src="./code.gif" width="430" height="100%" />
+
+<br />
+
 ### 技术栈 与 开发工具:
 
 <code><img height="20" src="./JavaScript.png"></code>
